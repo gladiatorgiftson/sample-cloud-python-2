@@ -1,0 +1,7 @@
+runtime : python37
+api_version : 1
+thread_safe : false
+
+handlers:
+  -url : \
+  script : sample.py
