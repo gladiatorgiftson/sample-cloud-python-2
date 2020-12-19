@@ -3,5 +3,5 @@ api_version : 1
 thread_safe : false
 
 handlers:
-  -url : \
-   script : sample.py
+  - url : \
+    script : sample.py
