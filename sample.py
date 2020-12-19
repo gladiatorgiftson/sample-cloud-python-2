@@ -1,2 +1,2 @@
-print ('Content-Type: html')
-print ('<h1> Hello Worls</h1>')
+print 'Content-Type: html'
+print '<h1> Hello Worls</h1>'
